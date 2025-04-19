@@ -1,0 +1,15 @@
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/oop2_ex01.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/Zip.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/ZipBackup.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/package.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/package_source.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/include/CMakeFiles/package.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/include/CMakeFiles/package_source.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/include/CMakeFiles/edit_cache.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/include/CMakeFiles/rebuild_cache.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/src/CMakeFiles/package.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/src/CMakeFiles/package_source.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/jacob/OneDrive/שולחן העבודה/מכללת הדסה/שנה ב/סמסטר ב/OOP/תרגילים/תרגיל 1/oop2_ex01-Jacob_Bondar-Shelly_Chausovsky/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
